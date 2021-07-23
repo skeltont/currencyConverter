@@ -1,0 +1,14 @@
+# python noise
+__pycache__
+
+# vscode settings
+.vscode
+
+# python virtual environment
+venv
+
+# instructions 
+README_OLD.txt
+
+# project configuration directory
+config/
